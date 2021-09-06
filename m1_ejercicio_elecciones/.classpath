@@ -10,6 +10,6 @@
 	<classpathentry kind="lib" path="test/lib/junit.jar"/>
 	<classpathentry kind="lib" path="lib/jfreechart-1.0.17.jar"/>
 	<classpathentry kind="lib" path="lib/jcommon-1.0.21.jar"/>
-	<classpathentry kind="lib" path="C:/Users/CarlosJein/eclipse-workspace/Carlos Jein Coronel Rojas - 02 m1_ejercicio_elecciones/m1_ejercicio_elecciones/lib/opencsv-3.10.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-3.10.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
